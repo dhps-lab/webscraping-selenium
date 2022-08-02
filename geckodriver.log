@@ -148,3 +148,880 @@ JavaScript warning: https://www.pagatodo.com.co/sites/all/modules/contrib/jquery
 Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
+1657820670191	geckodriver	INFO	Listening on 127.0.0.1:45897
+1657820670743	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47231" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileY9Pho7"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657820671958	Marionette	INFO	Marionette enabled
+1657820671963	Marionette	INFO	Listening on port 37991
+WebDriver BiDi listening on ws://localhost:47231
+Read port: 37991
+1657820672146	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileY9Pho7/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:47231/devtools/browser/9f3c1037-23db-4a83-9be3-0fb44cc9623c
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1827580795, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1827580795, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1827580795, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1827580795 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1827580795 line 1 > eval, line 1: unreachable code after return statement
+1657820683112	Marionette	INFO	Stopped listening on port 37991
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1657820730820	geckodriver	INFO	Listening on 127.0.0.1:39589
+1657820731325	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45615" "-no-remote" "-profile" "/tmp/rust_mozprofilezZ1F1f"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657820732115	Marionette	INFO	Marionette enabled
+1657820732121	Marionette	INFO	Listening on port 36343
+WebDriver BiDi listening on ws://localhost:45615
+1657820732256	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezZ1F1f/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:45615/devtools/browser/d2650fd9-c118-4e56-9413-dd394a122145
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1812549191, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1812549191, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1812549191, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1812549191 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1812549191 line 1 > eval, line 1: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1657820847244	geckodriver	INFO	Listening on 127.0.0.1:50657
+1657820847750	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42479" "-no-remote" "-profile" "/tmp/rust_mozprofilevBTMpQ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657820848547	Marionette	INFO	Marionette enabled
+1657820848552	Marionette	INFO	Listening on port 43711
+WebDriver BiDi listening on ws://localhost:42479
+1657820848779	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevBTMpQ/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:42479/devtools/browser/3a90dc67-377f-46d9-9cdd-de3aeaf34f47
+JavaScript error: https://pagatodo.com.co/sites/all/modules/custom/pagatodo_resultados/js/pagatodo_resultados.js, line 1: ReferenceError: Drupal is not defined
+JavaScript error: https://www.pagatodo.com.co/resultados.php?plg=resultados-loterias, line 1019: TypeError: window.Muse is undefined
+JavaScript error: https://www.pagatodo.com.co/modules/mod_resultados/scripts/museconfig.js?crc=4242129463, line 1: TypeError: muse_init is not a function
+JavaScript error: https://pagatodo.com.co/sites/all/themes/pagatodo/js/pagatodo.js, line 62: TypeError: $(...).tabs is not a function
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1569870246, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1569870246, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1569870246, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1569870246 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1569870246 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://pagatodo.com.co/sites/all/themes/pagatodo/js/pagatodo.js, line 53: TypeError: $(...).mCustomScrollbar is not a function
+1657820862413	Marionette	INFO	Stopped listening on port 43711
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1658543565626	geckodriver	INFO	Listening on 127.0.0.1:55939
+1658543566115	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35535" "-no-remote" "-profile" "/tmp/rust_mozprofileYAQ6Nq"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1658543567477	Marionette	INFO	Marionette enabled
+1658543567483	Marionette	INFO	Listening on port 39187
+WebDriver BiDi listening on ws://localhost:35535
+1658543567664	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYAQ6Nq/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:35535/devtools/browser/5ebc9d8e-15c2-4db0-a1f0-6c3368bce190
+JavaScript error: https://pagatodo.com.co/sites/all/modules/custom/pagatodo_resultados/js/pagatodo_resultados.js, line 1: ReferenceError: Drupal is not defined
+JavaScript error: https://www.pagatodo.com.co/resultados.php?plg=resultados-loterias, line 1019: TypeError: window.Muse is undefined
+JavaScript error: https://pagatodo.com.co/sites/all/themes/pagatodo/js/pagatodo.js, line 62: TypeError: $(...).tabs is not a function
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1728074096, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1728074096, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1728074096, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1728074096 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1728074096 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-W6BVSQ, line 35: uncaught exception: [object Object]
+JavaScript error: https://www.pagatodo.com.co/modules/mod_resultados/scripts/museconfig.js?crc=4242129463, line 1: TypeError: muse_init is not a function
+JavaScript error: https://pagatodo.com.co/sites/all/themes/pagatodo/js/pagatodo.js, line 53: TypeError: $(...).mCustomScrollbar is not a function
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1658543615308	Marionette	INFO	Stopped listening on port 39187
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1658543617844	geckodriver	INFO	Listening on 127.0.0.1:35431
+1658543618348	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46949" "-no-remote" "-profile" "/tmp/rust_mozprofilevzglfv"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1658543619168	Marionette	INFO	Marionette enabled
+1658543619173	Marionette	INFO	Listening on port 43515
+WebDriver BiDi listening on ws://localhost:46949
+1658543619307	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevzglfv/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:46949/devtools/browser/e8b51292-062e-4db1-94e8-d7c8d9dea280
+JavaScript error: https://pagatodo.com.co/sites/all/modules/custom/pagatodo_resultados/js/pagatodo_resultados.js, line 1: ReferenceError: Drupal is not defined
+JavaScript error: https://www.pagatodo.com.co/resultados.php?plg=resultados-loterias, line 1019: TypeError: window.Muse is undefined
+JavaScript error: https://pagatodo.com.co/sites/all/themes/pagatodo/js/pagatodo.js, line 62: TypeError: $(...).tabs is not a function
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1461851928, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1461851928, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1461851928, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1461851928 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1461851928 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-W6BVSQ, line 35: uncaught exception: [object Object]
+JavaScript error: https://www.pagatodo.com.co/modules/mod_resultados/scripts/museconfig.js?crc=4242129463, line 1: TypeError: muse_init is not a function
+JavaScript error: https://pagatodo.com.co/sites/all/themes/pagatodo/js/pagatodo.js, line 53: TypeError: $(...).mCustomScrollbar is not a function
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1658543635922	Marionette	INFO	Stopped listening on port 43515
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1658543729563	geckodriver	INFO	Listening on 127.0.0.1:44113
+1658543730067	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54637" "-no-remote" "-profile" "/tmp/rust_mozprofilec0eJqM"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1658543730859	Marionette	INFO	Marionette enabled
+1658543730865	Marionette	INFO	Listening on port 33893
+WebDriver BiDi listening on ws://localhost:54637
+1658543731004	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilec0eJqM/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:54637/devtools/browser/ab8c608e-db39-4258-9258-3a29a45fcf19
+JavaScript error: https://pagatodo.com.co/sites/all/modules/custom/pagatodo_resultados/js/pagatodo_resultados.js, line 1: ReferenceError: Drupal is not defined
+JavaScript error: https://www.pagatodo.com.co/resultados.php?plg=resultados-loterias, line 1019: TypeError: window.Muse is undefined
+JavaScript error: https://pagatodo.com.co/sites/all/themes/pagatodo/js/pagatodo.js, line 62: TypeError: $(...).tabs is not a function
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1814709122, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1814709122 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-W6BVSQ, line 35: uncaught exception: [object Object]
+JavaScript error: https://www.pagatodo.com.co/modules/mod_resultados/scripts/museconfig.js?crc=4242129463, line 1: TypeError: muse_init is not a function
+JavaScript error: https://pagatodo.com.co/sites/all/themes/pagatodo/js/pagatodo.js, line 53: TypeError: $(...).mCustomScrollbar is not a function
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1658545135669	Marionette	INFO	Stopped listening on port 33893
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1658960312991	geckodriver	INFO	Listening on 127.0.0.1:39627
+1658960313536	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39567" "-no-remote" "-profile" "/tmp/rust_mozprofileVy9PYI"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1658960314957	Marionette	INFO	Marionette enabled
+1658960314962	Marionette	INFO	Listening on port 34551
+WebDriver BiDi listening on ws://localhost:39567
+1658960315140	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVy9PYI/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:39567/devtools/browser/e8d92f40-e28c-4081-876e-e17bdfecc468
+JavaScript error: https://pagatodo.com.co/sites/all/modules/custom/pagatodo_resultados/js/pagatodo_resultados.js, line 1: ReferenceError: Drupal is not defined
+JavaScript error: https://www.pagatodo.com.co/resultados.php?plg=resultados-loterias, line 1019: TypeError: window.Muse is undefined
+JavaScript error: https://pagatodo.com.co/sites/all/themes/pagatodo/js/pagatodo.js, line 62: TypeError: $(...).tabs is not a function
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=66110590, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=66110590, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=66110590, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=66110590 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=66110590 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-W6BVSQ, line 35: uncaught exception: [object Object]
+JavaScript error: https://www.pagatodo.com.co/modules/mod_resultados/scripts/museconfig.js?crc=4242129463, line 1: TypeError: muse_init is not a function
+JavaScript error: https://pagatodo.com.co/sites/all/themes/pagatodo/js/pagatodo.js, line 53: TypeError: $(...).mCustomScrollbar is not a function
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1658960352108	Marionette	INFO	Stopped listening on port 34551
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1658960708437	geckodriver	INFO	Listening on 127.0.0.1:42593
+1658960708942	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53259" "-no-remote" "-profile" "/tmp/rust_mozprofilehmfJ7X"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1658960709738	Marionette	INFO	Marionette enabled
+1658960709742	Marionette	INFO	Listening on port 39179
+WebDriver BiDi listening on ws://localhost:53259
+1658960709865	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehmfJ7X/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:53259/devtools/browser/92e43ee6-d6b9-459e-90e8-0045b6a2e1d1
+JavaScript error: https://pagatodo.com.co/sites/all/modules/custom/pagatodo_resultados/js/pagatodo_resultados.js, line 1: ReferenceError: Drupal is not defined
+JavaScript error: https://www.pagatodo.com.co/resultados.php?plg=resultados-loterias, line 1019: TypeError: window.Muse is undefined
+JavaScript error: https://pagatodo.com.co/sites/all/themes/pagatodo/js/pagatodo.js, line 62: TypeError: $(...).tabs is not a function
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=503468752, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=503468752, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=503468752 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=503468752 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-W6BVSQ, line 35: uncaught exception: [object Object]
+JavaScript error: https://www.pagatodo.com.co/modules/mod_resultados/scripts/museconfig.js?crc=4242129463, line 1: TypeError: muse_init is not a function
+JavaScript error: https://pagatodo.com.co/sites/all/themes/pagatodo/js/pagatodo.js, line 53: TypeError: $(...).mCustomScrollbar is not a function
+1658960723946	Marionette	INFO	Stopped listening on port 39179
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1658960891276	geckodriver	INFO	Listening on 127.0.0.1:53493
+1658960891780	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50173" "-no-remote" "-profile" "/tmp/rust_mozprofileaix3zQ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1658960892575	Marionette	INFO	Marionette enabled
+1658960892580	Marionette	INFO	Listening on port 37657
+WebDriver BiDi listening on ws://localhost:50173
+1658960892701	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaix3zQ/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:50173/devtools/browser/5a0c049c-84de-413b-b040-3a6c25757245
+JavaScript error: https://pagatodo.com.co/sites/all/modules/custom/pagatodo_resultados/js/pagatodo_resultados.js, line 1: ReferenceError: Drupal is not defined
+JavaScript error: https://www.pagatodo.com.co/resultados.php?plg=resultados-loterias, line 1019: TypeError: window.Muse is undefined
+JavaScript error: https://pagatodo.com.co/sites/all/themes/pagatodo/js/pagatodo.js, line 62: TypeError: $(...).tabs is not a function
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=675684704, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=675684704, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=675684704, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=675684704 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=675684704 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-W6BVSQ, line 35: uncaught exception: [object Object]
+JavaScript error: https://www.pagatodo.com.co/modules/mod_resultados/scripts/museconfig.js?crc=4242129463, line 1: TypeError: muse_init is not a function
+JavaScript error: https://pagatodo.com.co/sites/all/themes/pagatodo/js/pagatodo.js, line 53: TypeError: $(...).mCustomScrollbar is not a function
+1658960906751	Marionette	INFO	Stopped listening on port 37657
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1658960992123	geckodriver	INFO	Listening on 127.0.0.1:53875
+1658960992628	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47997" "-no-remote" "-profile" "/tmp/rust_mozprofiletoyPfL"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1658960993438	Marionette	INFO	Marionette enabled
+1658960993442	Marionette	INFO	Listening on port 41409
+WebDriver BiDi listening on ws://localhost:47997
+1658960993583	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletoyPfL/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:47997/devtools/browser/f585e45a-457b-4cd0-9ab8-c7351bc58013
+JavaScript error: https://pagatodo.com.co/sites/all/modules/custom/pagatodo_resultados/js/pagatodo_resultados.js, line 1: ReferenceError: Drupal is not defined
+JavaScript error: https://www.pagatodo.com.co/resultados.php?plg=resultados-loterias, line 1019: TypeError: window.Muse is undefined
+JavaScript error: https://pagatodo.com.co/sites/all/themes/pagatodo/js/pagatodo.js, line 62: TypeError: $(...).tabs is not a function
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=703401783, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=703401783, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=703401783, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=703401783 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=703401783 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-W6BVSQ, line 35: uncaught exception: [object Object]
+JavaScript error: https://www.pagatodo.com.co/modules/mod_resultados/scripts/museconfig.js?crc=4242129463, line 1: TypeError: muse_init is not a function
+JavaScript error: https://pagatodo.com.co/sites/all/themes/pagatodo/js/pagatodo.js, line 53: TypeError: $(...).mCustomScrollbar is not a function
+1658961005815	Marionette	INFO	Stopped listening on port 41409
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1658962433268	geckodriver	INFO	Listening on 127.0.0.1:58593
+1658962433773	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51929" "-no-remote" "-profile" "/tmp/rust_mozprofileTPi6sU"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1658962434579	Marionette	INFO	Marionette enabled
+1658962434583	Marionette	INFO	Listening on port 34701
+WebDriver BiDi listening on ws://localhost:51929
+1658962434811	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTPi6sU/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:51929/devtools/browser/cf8ba26b-d3dd-4534-a3db-53309f2362e3
+JavaScript error: https://pagatodo.com.co/sites/all/modules/custom/pagatodo_resultados/js/pagatodo_resultados.js, line 1: ReferenceError: Drupal is not defined
+JavaScript error: https://www.pagatodo.com.co/resultados.php?plg=resultados-loterias, line 1019: TypeError: window.Muse is undefined
+JavaScript error: https://pagatodo.com.co/sites/all/themes/pagatodo/js/pagatodo.js, line 62: TypeError: $(...).tabs is not a function
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=646674326, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=646674326, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=646674326 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-W6BVSQ, line 35: uncaught exception: [object Object]
+JavaScript error: https://www.pagatodo.com.co/modules/mod_resultados/scripts/museconfig.js?crc=4242129463, line 1: TypeError: muse_init is not a function
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: https://pagatodo.com.co/sites/all/themes/pagatodo/js/pagatodo.js, line 53: TypeError: $(...).mCustomScrollbar is not a function
+1658962531412	Marionette	INFO	Stopped listening on port 34701
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1658965544445	geckodriver	INFO	Listening on 127.0.0.1:55971
+1658965544949	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49955" "-no-remote" "-profile" "/tmp/rust_mozprofileId8F8b"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1658965545737	Marionette	INFO	Marionette enabled
+1658965545742	Marionette	INFO	Listening on port 39617
+WebDriver BiDi listening on ws://localhost:49955
+1658965545867	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileId8F8b/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:49955/devtools/browser/7b3b8d21-ae0a-4982-a5bd-421d748daf7e
+JavaScript error: https://pagatodo.com.co/sites/all/modules/custom/pagatodo_resultados/js/pagatodo_resultados.js, line 1: ReferenceError: Drupal is not defined
+JavaScript error: https://www.pagatodo.com.co/resultados.php?plg=resultados-loterias, line 1019: TypeError: window.Muse is undefined
+JavaScript error: https://pagatodo.com.co/sites/all/themes/pagatodo/js/pagatodo.js, line 62: TypeError: $(...).tabs is not a function
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=390575029, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=390575029, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=390575029, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=390575029 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=390575029 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-W6BVSQ, line 35: uncaught exception: [object Object]
+JavaScript error: https://www.pagatodo.com.co/modules/mod_resultados/scripts/museconfig.js?crc=4242129463, line 1: TypeError: muse_init is not a function
+JavaScript error: https://pagatodo.com.co/sites/all/themes/pagatodo/js/pagatodo.js, line 53: TypeError: $(...).mCustomScrollbar is not a function
+1658965557902	Marionette	INFO	Stopped listening on port 39617
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1658966549822	geckodriver	INFO	Listening on 127.0.0.1:44913
+1658966550326	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33847" "-no-remote" "-profile" "/tmp/rust_mozprofileCd4wfY"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1658966551103	Marionette	INFO	Marionette enabled
+1658966551108	Marionette	INFO	Listening on port 45083
+WebDriver BiDi listening on ws://localhost:33847
+1658966551232	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCd4wfY/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:33847/devtools/browser/e4dc0541-82c3-4861-ab3d-9b9628f49800
+JavaScript error: https://pagatodo.com.co/sites/all/modules/custom/pagatodo_resultados/js/pagatodo_resultados.js, line 1: ReferenceError: Drupal is not defined
+JavaScript error: https://www.pagatodo.com.co/resultados.php?plg=resultados-loterias, line 1019: TypeError: window.Muse is undefined
+JavaScript error: https://pagatodo.com.co/sites/all/themes/pagatodo/js/pagatodo.js, line 62: TypeError: $(...).tabs is not a function
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2070410650, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2070410650, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2070410650 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://www.pagatodo.com.co/modules/mod_resultados/scripts/museconfig.js?crc=4242129463, line 1: TypeError: muse_init is not a function
+JavaScript error: https://pagatodo.com.co/sites/all/themes/pagatodo/js/pagatodo.js, line 53: TypeError: $(...).mCustomScrollbar is not a function
+1658966558187	Marionette	INFO	Stopped listening on port 45083
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1658966615164	geckodriver	INFO	Listening on 127.0.0.1:48825
+1658966615669	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47711" "-no-remote" "-profile" "/tmp/rust_mozprofilekOmyof"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1658966616484	Marionette	INFO	Marionette enabled
+1658966616490	Marionette	INFO	Listening on port 41763
+WebDriver BiDi listening on ws://localhost:47711
+1658966616638	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekOmyof/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:47711/devtools/browser/892bada3-de52-40fd-a3db-45adc710079b
+JavaScript error: https://pagatodo.com.co/sites/all/modules/custom/pagatodo_resultados/js/pagatodo_resultados.js, line 1: ReferenceError: Drupal is not defined
+JavaScript error: https://www.pagatodo.com.co/resultados.php?plg=resultados-loterias, line 1019: TypeError: window.Muse is undefined
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=861863681, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=861863681, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=861863681, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=861863681 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=861863681 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://pagatodo.com.co/sites/all/themes/pagatodo/js/pagatodo.js, line 62: TypeError: $(...).tabs is not a function
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-W6BVSQ, line 35: uncaught exception: [object Object]
+JavaScript error: https://www.pagatodo.com.co/modules/mod_resultados/scripts/museconfig.js?crc=4242129463, line 1: TypeError: muse_init is not a function
+JavaScript error: https://pagatodo.com.co/sites/all/themes/pagatodo/js/pagatodo.js, line 53: TypeError: $(...).mCustomScrollbar is not a function
+1658966632376	Marionette	INFO	Stopped listening on port 41763
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1658966844041	geckodriver	INFO	Listening on 127.0.0.1:55403
+1658966844546	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44877" "-no-remote" "-profile" "/tmp/rust_mozprofileced6HR"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1658966845348	Marionette	INFO	Marionette enabled
+1658966845353	Marionette	INFO	Listening on port 36501
+WebDriver BiDi listening on ws://localhost:44877
+1658966845583	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileced6HR/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:44877/devtools/browser/958dc731-83c2-4e99-a35d-34d658c98fed
+JavaScript error: https://pagatodo.com.co/sites/all/modules/custom/pagatodo_resultados/js/pagatodo_resultados.js, line 1: ReferenceError: Drupal is not defined
+JavaScript error: https://www.pagatodo.com.co/resultados.php?plg=resultados-loterias, line 1019: TypeError: window.Muse is undefined
+JavaScript error: https://www.pagatodo.com.co/modules/mod_resultados/scripts/museconfig.js?crc=4242129463, line 1: TypeError: muse_init is not a function
+JavaScript error: https://pagatodo.com.co/sites/all/themes/pagatodo/js/pagatodo.js, line 62: TypeError: $(...).tabs is not a function
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=540712936, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=540712936 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://pagatodo.com.co/sites/all/themes/pagatodo/js/pagatodo.js, line 53: TypeError: $(...).mCustomScrollbar is not a function
+1658966858666	Marionette	INFO	Stopped listening on port 36501
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1658966896540	geckodriver	INFO	Listening on 127.0.0.1:59507
+1658966897044	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54243" "-no-remote" "-profile" "/tmp/rust_mozprofileotax7G"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1658966897818	Marionette	INFO	Marionette enabled
+1658966897823	Marionette	INFO	Listening on port 45105
+WebDriver BiDi listening on ws://localhost:54243
+1658966897958	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileotax7G/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:54243/devtools/browser/bd67c970-2d39-4e14-9ef8-894db339c19d
+JavaScript error: https://pagatodo.com.co/sites/all/modules/custom/pagatodo_resultados/js/pagatodo_resultados.js, line 1: ReferenceError: Drupal is not defined
+JavaScript error: https://www.pagatodo.com.co/resultados.php?plg=resultados-loterias, line 1019: TypeError: window.Muse is undefined
+JavaScript error: https://pagatodo.com.co/sites/all/themes/pagatodo/js/pagatodo.js, line 62: TypeError: $(...).tabs is not a function
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=36967991, line 1: unreachable code after return statement
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-W6BVSQ, line 35: uncaught exception: [object Object]
+JavaScript error: https://www.pagatodo.com.co/modules/mod_resultados/scripts/museconfig.js?crc=4242129463, line 1: TypeError: muse_init is not a function
+JavaScript error: https://pagatodo.com.co/sites/all/themes/pagatodo/js/pagatodo.js, line 53: TypeError: $(...).mCustomScrollbar is not a function
+1658966914720	Marionette	INFO	Stopped listening on port 45105
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1658966941103	geckodriver	INFO	Listening on 127.0.0.1:59197
+1658966941607	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38927" "-no-remote" "-profile" "/tmp/rust_mozprofileyJLwNt"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1658966942415	Marionette	INFO	Marionette enabled
+1658966942419	Marionette	INFO	Listening on port 41753
+WebDriver BiDi listening on ws://localhost:38927
+1658966942562	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyJLwNt/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:38927/devtools/browser/b886ed66-5941-4d68-9f1e-93d813a91567
+JavaScript error: https://pagatodo.com.co/sites/all/modules/custom/pagatodo_resultados/js/pagatodo_resultados.js, line 1: ReferenceError: Drupal is not defined
+JavaScript error: https://www.pagatodo.com.co/resultados.php?plg=resultados-loterias, line 1019: TypeError: window.Muse is undefined
+JavaScript error: https://pagatodo.com.co/sites/all/themes/pagatodo/js/pagatodo.js, line 62: TypeError: $(...).tabs is not a function
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=472903872, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=472903872, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=472903872, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=472903872 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=472903872 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-W6BVSQ, line 35: uncaught exception: [object Object]
+JavaScript error: https://www.pagatodo.com.co/modules/mod_resultados/scripts/museconfig.js?crc=4242129463, line 1: TypeError: muse_init is not a function
+JavaScript error: https://pagatodo.com.co/sites/all/themes/pagatodo/js/pagatodo.js, line 53: TypeError: $(...).mCustomScrollbar is not a function
+1658966955642	Marionette	INFO	Stopped listening on port 41753
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1658967069779	geckodriver	INFO	Listening on 127.0.0.1:47077
+1658967070284	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51689" "-no-remote" "-profile" "/tmp/rust_mozprofileOChXWr"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1658967071082	Marionette	INFO	Marionette enabled
+1658967071086	Marionette	INFO	Listening on port 41109
+WebDriver BiDi listening on ws://localhost:51689
+1658967071318	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOChXWr/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:51689/devtools/browser/c957aada-c10b-4568-a79d-6c7c159f880b
+JavaScript error: https://pagatodo.com.co/sites/all/modules/custom/pagatodo_resultados/js/pagatodo_resultados.js, line 1: ReferenceError: Drupal is not defined
+JavaScript error: https://www.pagatodo.com.co/resultados.php?plg=resultados-loterias, line 1019: TypeError: window.Muse is undefined
+JavaScript error: https://pagatodo.com.co/sites/all/themes/pagatodo/js/pagatodo.js, line 62: TypeError: $(...).tabs is not a function
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=579206881, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=579206881, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=579206881, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=579206881 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=579206881 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-W6BVSQ, line 35: uncaught exception: [object Object]
+JavaScript error: https://www.pagatodo.com.co/modules/mod_resultados/scripts/museconfig.js?crc=4242129463, line 1: TypeError: muse_init is not a function
+JavaScript error: https://pagatodo.com.co/sites/all/themes/pagatodo/js/pagatodo.js, line 53: TypeError: $(...).mCustomScrollbar is not a function
+1658967085666	Marionette	INFO	Stopped listening on port 41109
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1658967130763	geckodriver	INFO	Listening on 127.0.0.1:52965
+1658967131267	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49795" "-no-remote" "-profile" "/tmp/rust_mozprofile3eR3MQ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1658967132058	Marionette	INFO	Marionette enabled
+1658967132065	Marionette	INFO	Listening on port 41725
+WebDriver BiDi listening on ws://localhost:49795
+1658967132238	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3eR3MQ/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:49795/devtools/browser/ba3d2145-c26e-4039-8871-1d30c1cb6f5e
+JavaScript error: https://pagatodo.com.co/sites/all/modules/custom/pagatodo_resultados/js/pagatodo_resultados.js, line 1: ReferenceError: Drupal is not defined
+JavaScript error: https://www.pagatodo.com.co/resultados.php?plg=resultados-loterias, line 1019: TypeError: window.Muse is undefined
+JavaScript error: https://pagatodo.com.co/sites/all/themes/pagatodo/js/pagatodo.js, line 62: TypeError: $(...).tabs is not a function
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2123560440, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2123560440, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2123560440, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2123560440 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2123560440 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-W6BVSQ, line 35: uncaught exception: [object Object]
+JavaScript error: https://www.pagatodo.com.co/modules/mod_resultados/scripts/museconfig.js?crc=4242129463, line 1: TypeError: muse_init is not a function
+JavaScript error: https://pagatodo.com.co/sites/all/themes/pagatodo/js/pagatodo.js, line 53: TypeError: $(...).mCustomScrollbar is not a function
+1658967147008	Marionette	INFO	Stopped listening on port 41725
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1658967177426	geckodriver	INFO	Listening on 127.0.0.1:60287
+1658967177931	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39657" "-no-remote" "-profile" "/tmp/rust_mozprofileBpxa6A"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1658967178708	Marionette	INFO	Marionette enabled
+1658967178712	Marionette	INFO	Listening on port 39507
+WebDriver BiDi listening on ws://localhost:39657
+1658967178852	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBpxa6A/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:39657/devtools/browser/4abc2482-9364-412e-b434-fa1abed27797
+JavaScript error: https://pagatodo.com.co/sites/all/modules/custom/pagatodo_resultados/js/pagatodo_resultados.js, line 1: ReferenceError: Drupal is not defined
+JavaScript error: https://www.pagatodo.com.co/resultados.php?plg=resultados-loterias, line 1019: TypeError: window.Muse is undefined
+JavaScript error: https://pagatodo.com.co/sites/all/themes/pagatodo/js/pagatodo.js, line 62: TypeError: $(...).tabs is not a function
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=720693787, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=720693787, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=720693787, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=720693787 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=720693787 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://www.pagatodo.com.co/modules/mod_resultados/scripts/museconfig.js?crc=4242129463, line 1: TypeError: muse_init is not a function
+JavaScript error: https://pagatodo.com.co/sites/all/themes/pagatodo/js/pagatodo.js, line 53: TypeError: $(...).mCustomScrollbar is not a function
+1658967199785	Marionette	INFO	Stopped listening on port 39507
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1659019228464	geckodriver	INFO	Listening on 127.0.0.1:40285
+1659019228970	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34045" "-no-remote" "-profile" "/tmp/rust_mozprofilewmSW5x"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659019230329	Marionette	INFO	Marionette enabled
+1659019230334	Marionette	INFO	Listening on port 39367
+WebDriver BiDi listening on ws://localhost:34045
+1659019230524	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewmSW5x/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:34045/devtools/browser/7631845a-0441-4f0d-98d6-ce7abfb4baf7
+JavaScript error: https://pagatodo.com.co/sites/all/modules/custom/pagatodo_resultados/js/pagatodo_resultados.js, line 1: ReferenceError: Drupal is not defined
+JavaScript error: https://www.pagatodo.com.co/resultados.php?plg=resultados-loterias, line 1019: TypeError: window.Muse is undefined
+JavaScript error: https://pagatodo.com.co/sites/all/themes/pagatodo/js/pagatodo.js, line 62: TypeError: $(...).tabs is not a function
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=430075727, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=430075727, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=430075727 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-W6BVSQ, line 35: uncaught exception: [object Object]
+JavaScript error: https://www.pagatodo.com.co/modules/mod_resultados/scripts/museconfig.js?crc=4242129463, line 1: TypeError: muse_init is not a function
+JavaScript error: https://pagatodo.com.co/sites/all/themes/pagatodo/js/pagatodo.js, line 53: TypeError: $(...).mCustomScrollbar is not a function
+1659019245999	Marionette	INFO	Stopped listening on port 39367
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1659019416548	geckodriver	INFO	Listening on 127.0.0.1:35737
+1659019417053	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58255" "-no-remote" "-profile" "/tmp/rust_mozprofiledPlL98"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659019417824	Marionette	INFO	Marionette enabled
+1659019417828	Marionette	INFO	Listening on port 45353
+WebDriver BiDi listening on ws://localhost:58255
+1659019417951	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledPlL98/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:58255/devtools/browser/b505e04b-5862-4f44-9fed-757bb7dd987d
+JavaScript error: https://pagatodo.com.co/sites/all/modules/custom/pagatodo_resultados/js/pagatodo_resultados.js, line 1: ReferenceError: Drupal is not defined
+JavaScript error: https://www.pagatodo.com.co/resultados.php?plg=resultados-loterias, line 1019: TypeError: window.Muse is undefined
+JavaScript error: https://pagatodo.com.co/sites/all/themes/pagatodo/js/pagatodo.js, line 62: TypeError: $(...).tabs is not a function
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=134141337, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=134141337, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=134141337, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=134141337 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=134141337 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-W6BVSQ, line 35: uncaught exception: [object Object]
+JavaScript error: https://www.pagatodo.com.co/modules/mod_resultados/scripts/museconfig.js?crc=4242129463, line 1: TypeError: muse_init is not a function
+JavaScript error: https://pagatodo.com.co/sites/all/themes/pagatodo/js/pagatodo.js, line 53: TypeError: $(...).mCustomScrollbar is not a function
+1659019432805	Marionette	INFO	Stopped listening on port 45353
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1659019473099	geckodriver	INFO	Listening on 127.0.0.1:36757
+1659019473604	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40519" "-no-remote" "-profile" "/tmp/rust_mozprofile838lqn"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659019474401	Marionette	INFO	Marionette enabled
+1659019474407	Marionette	INFO	Listening on port 42745
+WebDriver BiDi listening on ws://localhost:40519
+1659019474567	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile838lqn/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:40519/devtools/browser/173ea327-c048-4a4e-a949-1cc7afa39551
+JavaScript error: https://pagatodo.com.co/sites/all/modules/custom/pagatodo_resultados/js/pagatodo_resultados.js, line 1: ReferenceError: Drupal is not defined
+JavaScript error: https://www.pagatodo.com.co/resultados.php?plg=resultados-loterias, line 1019: TypeError: window.Muse is undefined
+JavaScript error: https://pagatodo.com.co/sites/all/themes/pagatodo/js/pagatodo.js, line 62: TypeError: $(...).tabs is not a function
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1431228197, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1431228197, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1431228197 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-W6BVSQ, line 35: uncaught exception: [object Object]
+JavaScript error: https://www.pagatodo.com.co/modules/mod_resultados/scripts/museconfig.js?crc=4242129463, line 1: TypeError: muse_init is not a function
+JavaScript error: https://pagatodo.com.co/sites/all/themes/pagatodo/js/pagatodo.js, line 53: TypeError: $(...).mCustomScrollbar is not a function
+1659019493779	Marionette	INFO	Stopped listening on port 42745
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1659019542487	geckodriver	INFO	Listening on 127.0.0.1:42097
+1659019542991	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39221" "-no-remote" "-profile" "/tmp/rust_mozprofileYYx0n1"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659019543791	Marionette	INFO	Marionette enabled
+1659019543795	Marionette	INFO	Listening on port 40491
+WebDriver BiDi listening on ws://localhost:39221
+1659019544057	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYYx0n1/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:39221/devtools/browser/271b9814-35d2-4fd6-ab1f-7506b7b6c358
+JavaScript error: https://pagatodo.com.co/sites/all/modules/custom/pagatodo_resultados/js/pagatodo_resultados.js, line 1: ReferenceError: Drupal is not defined
+JavaScript error: https://www.pagatodo.com.co/resultados.php?plg=resultados-loterias, line 1019: TypeError: window.Muse is undefined
+JavaScript error: https://pagatodo.com.co/sites/all/themes/pagatodo/js/pagatodo.js, line 62: TypeError: $(...).tabs is not a function
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=78759171, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=78759171, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=78759171, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=78759171 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=78759171 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-W6BVSQ, line 35: uncaught exception: [object Object]
+JavaScript error: https://www.pagatodo.com.co/modules/mod_resultados/scripts/museconfig.js?crc=4242129463, line 1: TypeError: muse_init is not a function
+JavaScript error: https://pagatodo.com.co/sites/all/themes/pagatodo/js/pagatodo.js, line 53: TypeError: $(...).mCustomScrollbar is not a function
+1659019562723	Marionette	INFO	Stopped listening on port 40491
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1659411735987	geckodriver	INFO	Listening on 127.0.0.1:55441
+1659411736509	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38549" "-no-remote" "-profile" "/tmp/rust_mozprofileDekxpb"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659411737318	Marionette	INFO	Marionette enabled
+1659411737322	Marionette	INFO	Listening on port 35775
+WebDriver BiDi listening on ws://localhost:38549
+1659411737468	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDekxpb/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:38549/devtools/browser/2ad7dbde-fb79-4985-a8ef-d521c7726d92
+JavaScript error: https://pagatodo.com.co/sites/all/modules/custom/pagatodo_resultados/js/pagatodo_resultados.js, line 1: ReferenceError: Drupal is not defined
+JavaScript error: https://www.pagatodo.com.co/resultados.php?plg=resultados-loterias, line 1019: TypeError: window.Muse is undefined
+JavaScript error: https://pagatodo.com.co/sites/all/themes/pagatodo/js/pagatodo.js, line 62: TypeError: $(...).tabs is not a function
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1870697517, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1870697517, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1870697517, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1870697517 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1870697517 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-W6BVSQ, line 35: uncaught exception: [object Object]
+JavaScript error: https://www.pagatodo.com.co/modules/mod_resultados/scripts/museconfig.js?crc=4242129463, line 1: TypeError: muse_init is not a function
+JavaScript error: https://pagatodo.com.co/sites/all/themes/pagatodo/js/pagatodo.js, line 53: TypeError: $(...).mCustomScrollbar is not a function
+1659411767962	Marionette	INFO	Stopped listening on port 35775
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1659411809975	geckodriver	INFO	Listening on 127.0.0.1:41431
+1659411810479	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54753" "-no-remote" "-profile" "/tmp/rust_mozprofilewFsfHn"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659411811258	Marionette	INFO	Marionette enabled
+1659411811262	Marionette	INFO	Listening on port 46043
+WebDriver BiDi listening on ws://localhost:54753
+1659411811386	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewFsfHn/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:54753/devtools/browser/0ff714d3-690d-487b-bfef-08a40f75c3af
+JavaScript error: https://pagatodo.com.co/sites/all/modules/custom/pagatodo_resultados/js/pagatodo_resultados.js, line 1: ReferenceError: Drupal is not defined
+JavaScript error: https://www.pagatodo.com.co/resultados.php?plg=resultados-loterias, line 1019: TypeError: window.Muse is undefined
+JavaScript error: https://pagatodo.com.co/sites/all/themes/pagatodo/js/pagatodo.js, line 62: TypeError: $(...).tabs is not a function
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1765038054, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1765038054, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1765038054 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1765038054 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-W6BVSQ, line 35: uncaught exception: [object Object]
+JavaScript error: https://www.pagatodo.com.co/modules/mod_resultados/scripts/museconfig.js?crc=4242129463, line 1: TypeError: muse_init is not a function
+JavaScript error: https://pagatodo.com.co/sites/all/themes/pagatodo/js/pagatodo.js, line 53: TypeError: $(...).mCustomScrollbar is not a function
+1659411832984	Marionette	INFO	Stopped listening on port 46043
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1659412625740	geckodriver	INFO	Listening on 127.0.0.1:57583
+1659412626245	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55573" "-no-remote" "-profile" "/tmp/rust_mozprofileP9nrkg"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659412627046	Marionette	INFO	Marionette enabled
+1659412627050	Marionette	INFO	Listening on port 45289
+WebDriver BiDi listening on ws://localhost:55573
+1659412627288	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileP9nrkg/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:55573/devtools/browser/4697dd4c-856a-46aa-a1e4-99b749b643e1
+JavaScript error: https://pagatodo.com.co/sites/all/modules/custom/pagatodo_resultados/js/pagatodo_resultados.js, line 1: ReferenceError: Drupal is not defined
+JavaScript error: https://www.pagatodo.com.co/resultados.php?plg=resultados-loterias, line 1019: TypeError: window.Muse is undefined
+JavaScript error: https://pagatodo.com.co/sites/all/themes/pagatodo/js/pagatodo.js, line 62: TypeError: $(...).tabs is not a function
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=4&cb=2078222365, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=4&cb=2078222365, line 1: unreachable code after return statement
+JavaScript warning: https://www.pagatodo.com.co/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=4&cb=2078222365 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-W6BVSQ, line 35: uncaught exception: [object Object]
+JavaScript error: https://www.pagatodo.com.co/modules/mod_resultados/scripts/museconfig.js?crc=4242129463, line 1: TypeError: muse_init is not a function
+JavaScript error: https://pagatodo.com.co/sites/all/themes/pagatodo/js/pagatodo.js, line 53: TypeError: $(...).mCustomScrollbar is not a function
+1659412675786	Marionette	INFO	Stopped listening on port 45289
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1659413444123	geckodriver	INFO	Listening on 127.0.0.1:47523
+1659413444627	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33205" "-no-remote" "-profile" "/tmp/rust_mozprofile3tW0Fi"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659413445508	Marionette	INFO	Marionette enabled
+1659413445513	Marionette	INFO	Listening on port 43385
+WebDriver BiDi listening on ws://localhost:33205
+1659413445681	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3tW0Fi/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:33205/devtools/browser/29265313-b68a-4e68-a601-0accb6b8f8c9
+JavaScript error: https://pagatodo.com.co/sites/all/modules/custom/pagatodo_resultados/js/pagatodo_resultados.js, line 1: ReferenceError: Drupal is not defined
+JavaScript error: https://www.pagatodo.com.co/resultados.php?plg=resultados-loterias, line 1019: TypeError: window.Muse is undefined
+JavaScript error: https://pagatodo.com.co/sites/all/themes/pagatodo/js/pagatodo.js, line 62: TypeError: $(...).tabs is not a function
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-W6BVSQ, line 35: uncaught exception: [object Object]
+JavaScript error: https://www.pagatodo.com.co/modules/mod_resultados/scripts/museconfig.js?crc=4242129463, line 1: TypeError: muse_init is not a function
+JavaScript error: https://pagatodo.com.co/sites/all/themes/pagatodo/js/pagatodo.js, line 53: TypeError: $(...).mCustomScrollbar is not a function
+1659413460634	Marionette	INFO	Stopped listening on port 43385
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1659413653440	geckodriver	INFO	Listening on 127.0.0.1:43385
+1659413653945	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50903" "-no-remote" "-profile" "/tmp/rust_mozprofileqtXhjl"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659413654759	Marionette	INFO	Marionette enabled
+1659413654764	Marionette	INFO	Listening on port 34297
+WebDriver BiDi listening on ws://localhost:50903
+1659413654907	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqtXhjl/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:50903/devtools/browser/96c44d91-ed8d-4226-aa2c-515d70567585
+JavaScript error: https://pagatodo.com.co/sites/all/modules/custom/pagatodo_resultados/js/pagatodo_resultados.js, line 1: ReferenceError: Drupal is not defined
+JavaScript error: https://www.pagatodo.com.co/resultados.php?plg=resultados-loterias, line 1019: TypeError: window.Muse is undefined
+JavaScript error: https://pagatodo.com.co/sites/all/themes/pagatodo/js/pagatodo.js, line 62: TypeError: $(...).tabs is not a function
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-W6BVSQ, line 35: uncaught exception: [object Object]
+JavaScript error: https://www.pagatodo.com.co/modules/mod_resultados/scripts/museconfig.js?crc=4242129463, line 1: TypeError: muse_init is not a function
+JavaScript error: https://pagatodo.com.co/sites/all/themes/pagatodo/js/pagatodo.js, line 53: TypeError: $(...).mCustomScrollbar is not a function
+1659413754927	Marionette	INFO	Stopped listening on port 34297
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1659413955652	geckodriver	INFO	Listening on 127.0.0.1:58423
+1659413956157	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37119" "-no-remote" "-profile" "/tmp/rust_mozprofileowgmeb"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659413956959	Marionette	INFO	Marionette enabled
+1659413956963	Marionette	INFO	Listening on port 46807
+WebDriver BiDi listening on ws://localhost:37119
+1659413957194	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileowgmeb/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:37119/devtools/browser/fd8d2d81-d206-42a9-81d1-d13cf1d90ca4
+JavaScript error: https://pagatodo.com.co/sites/all/modules/custom/pagatodo_resultados/js/pagatodo_resultados.js, line 1: ReferenceError: Drupal is not defined
+JavaScript error: https://www.pagatodo.com.co/resultados.php?plg=resultados-loterias, line 1019: TypeError: window.Muse is undefined
+JavaScript error: https://pagatodo.com.co/sites/all/themes/pagatodo/js/pagatodo.js, line 62: TypeError: $(...).tabs is not a function
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-W6BVSQ, line 35: uncaught exception: [object Object]
+JavaScript error: https://www.pagatodo.com.co/modules/mod_resultados/scripts/museconfig.js?crc=4242129463, line 1: TypeError: muse_init is not a function
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: https://pagatodo.com.co/sites/all/themes/pagatodo/js/pagatodo.js, line 53: TypeError: $(...).mCustomScrollbar is not a function
+1659413972810	Marionette	INFO	Stopped listening on port 46807
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1659414159973	geckodriver	INFO	Listening on 127.0.0.1:59459
+1659414160477	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38103" "-no-remote" "-profile" "/tmp/rust_mozprofileHZ3OzL"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659414161446	Marionette	INFO	Marionette enabled
+1659414161453	Marionette	INFO	Listening on port 43897
+WebDriver BiDi listening on ws://localhost:38103
+1659414161602	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHZ3OzL/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:38103/devtools/browser/ce9ecf19-6ade-4d97-864c-96fe13c52955
+JavaScript error: https://pagatodo.com.co/sites/all/modules/custom/pagatodo_resultados/js/pagatodo_resultados.js, line 1: ReferenceError: Drupal is not defined
+JavaScript error: https://www.pagatodo.com.co/resultados.php?plg=resultados-loterias, line 1019: TypeError: window.Muse is undefined
+JavaScript error: https://pagatodo.com.co/sites/all/themes/pagatodo/js/pagatodo.js, line 62: TypeError: $(...).tabs is not a function
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-W6BVSQ, line 35: uncaught exception: [object Object]
+JavaScript error: https://www.pagatodo.com.co/modules/mod_resultados/scripts/museconfig.js?crc=4242129463, line 1: TypeError: muse_init is not a function
+JavaScript error: https://pagatodo.com.co/sites/all/themes/pagatodo/js/pagatodo.js, line 53: TypeError: $(...).mCustomScrollbar is not a function
+1659414177826	Marionette	INFO	Stopped listening on port 43897
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1659414267525	geckodriver	INFO	Listening on 127.0.0.1:48255
+1659414268029	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57611" "-no-remote" "-profile" "/tmp/rust_mozprofiledy1p4i"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659414268838	Marionette	INFO	Marionette enabled
+1659414268842	Marionette	INFO	Listening on port 33559
+WebDriver BiDi listening on ws://localhost:57611
+1659414268987	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledy1p4i/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:57611/devtools/browser/c0cdc745-418d-4b2a-babf-f114b638f2c0
+JavaScript error: https://pagatodo.com.co/sites/all/modules/custom/pagatodo_resultados/js/pagatodo_resultados.js, line 1: ReferenceError: Drupal is not defined
+JavaScript error: https://www.pagatodo.com.co/resultados.php?plg=resultados-loterias, line 1019: TypeError: window.Muse is undefined
+JavaScript error: https://pagatodo.com.co/sites/all/themes/pagatodo/js/pagatodo.js, line 62: TypeError: $(...).tabs is not a function
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-W6BVSQ, line 35: uncaught exception: [object Object]
+JavaScript error: https://www.pagatodo.com.co/modules/mod_resultados/scripts/museconfig.js?crc=4242129463, line 1: TypeError: muse_init is not a function
+JavaScript error: https://pagatodo.com.co/sites/all/themes/pagatodo/js/pagatodo.js, line 53: TypeError: $(...).mCustomScrollbar is not a function
+1659414368446	Marionette	INFO	Stopped listening on port 33559
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
