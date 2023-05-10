@@ -4,9 +4,9 @@ from selenium.webdriver.support.ui import WebDriverWait
 from datetime import timedelta,datetime 
 from selenium.webdriver.common.by import By 
 from selenium.webdriver.support import expected_conditions as EC
-from pymongo import MongoClient
+from database import Database
 
-import time
+import time, json
 
 urlbase = 'https://www.pagatodo.com.co'
 
@@ -17,6 +17,10 @@ def text_of_element(element):
 	compare_text = '/modules/mod_resultados/secos'
 	if text and compare_text in text:
 		return text
+
+def text_of_element_p(element):
+	text = element.get_attribute('textContent')
+	return text
 
 def find_name_of_lotery(text, keyword):
 	if text in [None, ''] or keyword in [None, '']:
@@ -52,69 +56,68 @@ def generate_link_of_lotery(urlbase, text_lotery):
 	link_lotery = urlbase + text_lotery
 	link_lotery = link_lotery[:link_lotery.find('?')]
 	return link_lotery
+
+def convert_results_to_data(results,id, name_lotery):
+    dirty = {
+		"name": "",
+		"number": "	",
+		"serie": ''
+	}
+    result_id = {
+        "lotery": name_lotery,
+        "raffle_id": id,
+		"raffle_mayor":{
+			"date": results[0],
+			"number": results[1],
+			"serie": results[2],
+      		},
+		"dirties": []
+	}
+    cont = 1
+    dirty = dict()
+    for i in range(0,len(results)):
+        if i > 2:
+            if cont == 1: dirty["name"] = results[i]
+            if cont == 2: dirty["number"] = results[i]
+            if cont == 3: 
+                dirty["serie"] = results[i]
+                result_id["dirties"].append(dirty)
+                dirty = dict()
+                cont = 0
+            cont = cont+1
+    return result_id
+    
     	
 try:
 	driver.get(urlbase + "/resultados.php?plg=resultados-loterias") 
 	loterias =	driver.find_elements(By.TAG_NAME,'a') # get all elemens for tag name 'a'
 	loterias_map = list(filter(lambda x: x is not None,map(text_of_element,loterias))) # map and filter all elements that are loteries for value of attribute href
+	connection = Database()
 
 	print(loterias_map,' length of', len(loterias_map))
 
 	for loteria in loterias_map:
 		loteria = clean_find_link(loteria)
 		link_generated = generate_link_of_lotery(urlbase, loteria)
+		last_id = last_id_of_element(loteria)
+		name_lotery = find_name_of_lotery(loteria,'secos')
 		print('Nombre de la lotería',find_name_of_lotery(loteria,'secos'))
-		print('Url de la lotería', link_generated)
-		print('Id de la lotería', last_id_of_element(loteria))
+		url_secos = link_generated+'?id='+last_id
+		print('Url secos: ', url_secos)
+		driver.get(url_secos)
+		time.sleep(1)
+		results = driver.find_elements(By.TAG_NAME,'p')
+		print('El resultado de la lotería es:')
+		results_map = list(filter(lambda x: x is not None,map(text_of_element_p,results)))
+		result_to_insert = convert_results_to_data(results_map,last_id, name_lotery)
+		#print(json.dumps(result_to_insert, indent=4))
+		
+		connection.insert_result(result_to_insert)
 
 except AttributeError:
 	print( "Error in attribute: ", AttributeError.name)
 
 finally:
-	print('Executing with selenium terminated')
+	print('[END] Executing with selenium terminated')
 	driver.close()
-
-
-"""client = MongoClient('localhost',27017)
-
-db = client.loterias
-bogota = db.bogota
-
-datatimefecha=datetime(2014,2,13,0,0)
-
-while datatimefecha < datetime.today():
-	
-	strfecha=str(datatimefecha).split(" ")[0].split("-")
-	elemento =	driver.find_element_by_id("edit-datapiker-loterias")
-	elemento.send_keys(strfecha[2]+"/"+strfecha[1]+"/"+strfecha[0])
-	elemento2 = driver.find_element_by_id("form-baloto-loterias")
-	elemento2.submit() 
-	time.sleep(2)
-	nuevo = driver.find_elements_by_tag_name("table") 
-	datos = nuevo[3].text.split("\n")
-	#print (datos) 
-	datatimefecha=datatimefecha+timedelta(days=7)
-	driver.get("https://www.pagatodo.com.co/resultados?acordeon=loterias")
-	if 'Lotería de Bogotá' in datos :
-		indice = datos.index('Lotería de Bogotá')
-		print (datos[indice]+'->'+datos[indice+1]+' resultado ->'+datos[indice+2]+' serie->'+datos[indice+3])
-		datoNuevo = {
-			'Loteria' : datos[indice],
-			'fecha' : datos[indice+1],
-			'resultado' : datos[indice+2],
-			'serie' : datos[indice+3]
-		}
-		result = bogota.insert_one(datoNuevo)
-"""
-
-
-
-
-
-
-
-
-
-
-
 
