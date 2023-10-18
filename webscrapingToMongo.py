@@ -86,6 +86,23 @@ def convert_results_to_data(results,id, name_lotery):
                 cont = 0
             cont = cont+1
     return result_id
+
+def validate_result_exists(connection:Database, id, name_lotery):
+    result = connection.find_results(id,name_lotery)
+    if result :
+        print('Falses result')
+        return True
+    else :
+        print('True result')
+        return False
+    
+def results_amount(current_id, amount_required):
+    if current_id - amount_required < 0:
+        return current_id - amount_required
+    return amount_required
+
+def insert_result(url_dirty,):
+    print('Hola')
     
     	
 try:
@@ -93,26 +110,35 @@ try:
 	loterias =	driver.find_elements(By.TAG_NAME,'a') # get all elemens for tag name 'a'
 	loterias_map = list(filter(lambda x: x is not None,map(text_of_element,loterias))) # map and filter all elements that are loteries for value of attribute href
 	connection = Database()
+	
 
 	print(loterias_map,' length of', len(loterias_map))
 
 	for loteria in loterias_map:
+     
+		# Taking the data from each lotery
 		loteria = clean_find_link(loteria)
 		link_generated = generate_link_of_lotery(urlbase, loteria)
 		last_id = last_id_of_element(loteria)
 		name_lotery = find_name_of_lotery(loteria,'secos')
 		print('Nombre de la lotería',find_name_of_lotery(loteria,'secos'))
-		url_secos = link_generated+'?id='+last_id
-		print('Url secos: ', url_secos)
-		driver.get(url_secos)
-		time.sleep(1)
-		results = driver.find_elements(By.TAG_NAME,'p')
-		print('El resultado de la lotería es:')
-		results_map = list(filter(lambda x: x is not None,map(text_of_element_p,results)))
-		result_to_insert = convert_results_to_data(results_map,last_id, name_lotery)
-		#print(json.dumps(result_to_insert, indent=4))
 		
-		connection.insert_result(result_to_insert)
+		counter = int(last_id)
+		target = int( last_id) - 52
+		while counter >= target:
+			exists = validate_result_exists(connection, str(counter), name_lotery)
+			if exists == False :
+				# Getting all gift's data
+				url_secos = link_generated+'?id='+str(counter)
+				#print('Url secos: ', url_secos)
+				driver.get(url_secos)
+				time.sleep(1)
+				results = driver.find_elements(By.TAG_NAME,'p')
+				results_map = list(filter(lambda x: x is not None,map(text_of_element_p,results)))
+				result_to_insert = convert_results_to_data(results_map,str(counter), name_lotery)
+				#print(json.dumps(result_to_insert, indent=4))
+				connection.insert_result(result_to_insert)
+			counter = counter-1
 
 except AttributeError:
 	print( "Error in attribute: ", AttributeError.name)

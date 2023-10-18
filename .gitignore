@@ -1,3 +1,5 @@
-geckodriver.log
+./geckodriver.log
 
 /data
+__pycache__/*
+database*/*

@@ -5,7 +5,15 @@ class Database:
         self.db = self.conn["lotery"]
         
     def insert_result(self,result):
-        print('within insert_result-2')
         results = self.db.results_t
         result_id = results.insert_one(result).inserted_id
-        print("Inserted: ",result_id)
+        if result_id :
+            return 'Successfully'
+        else :
+            return 'Failed'
+        
+    def find_results(self, id, name_lotery):
+        c_results = self.db.results_t
+        dict_query = {"lotery":name_lotery, "raffle_id":id}
+        results = c_results.find_one(dict_query)
+        return results
